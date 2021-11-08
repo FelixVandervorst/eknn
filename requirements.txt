@@ -1,6 +1,6 @@
 sklearn
 numpy == 1.17.0
-faiss
+faiss-cpu
 pandas == 1.2.4
 scipy == 1.6.2
 matplotlib >= 3.3.4
